@@ -1,0 +1,14 @@
+tableId,id,name,type
+tblClinHours00001,fldProjName00001,Name,singleLineText
+tblClinHours00001,fldProjStat00001,Status,singleSelect
+tblClinHours00001,fldProjOwner001,Owner,singleLineText
+tblClinHours00001,fldProjBudget01,Budget,number
+tblCompetencies001,fldCompName00001,Name,singleLineText
+tblCompetencies001,fldCompStat0001,Status,singleSelect
+tblCompetencies001,fldCompProj001,Project,singleLineText
+tblCompetencies001,fldCompEstHrs01,EstimateHours,number
+tblCompetencies001,fldCompDone001,Done,checkbox
+tblSimScores000001,fldContactName01,Name,singleLineText
+tblSimScores000001,fldContactEmail1,Email,email
+tblSimScores000001,fldContactComp01,Company,singleLineText
+tblSimScores000001,fldContactRole01,Role,singleLineText

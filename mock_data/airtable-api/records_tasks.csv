@@ -1,0 +1,8 @@
+"id","createdTime","Name","Status","Project","EstimateHours","Done"
+"task-001","2026-09-01T09:00:00Z","Cardiac Pharmacology - Beta Blockers","Met","NUR-420","8","true"
+"task-002","2026-09-15T09:00:00Z","Cardiac Pharmacology - ACE Inhibitors","Met","NUR-420","6","true"
+"task-003","2026-10-01T09:00:00Z","Respiratory Pharmacology","Met","NUR-420","10","true"
+"task-004","2026-10-15T09:00:00Z","Renal Pharmacology - Diuretics","In Progress","NUR-420","6","false"
+"task-005","2026-10-29T09:00:00Z","GI Pharmacology","Not Started","NUR-420","8","false"
+"task-006","2026-11-05T09:00:00Z","Endocrine Pharmacology","Not Started","NUR-420","6","false"
+"task-007","2026-11-12T09:00:00Z","Midterm Exam Preparation","In Progress","NUR-420","12","false"

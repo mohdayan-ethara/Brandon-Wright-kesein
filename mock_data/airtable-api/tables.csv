@@ -1,0 +1,4 @@
+baseId,id,name,primaryFieldId,records_csv
+appnursing0000001,tblClinHours00001,Clinical Hours,fldClinHourName001,records_projects.csv
+appnursing0000001,tblCompetencies001,Competencies,fldCompName000001,records_tasks.csv
+appnursing0000001,tblSimScores000001,Simulation Scores,fldSimScName00001,records_contacts.csv

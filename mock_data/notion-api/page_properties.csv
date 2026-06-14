@@ -1,0 +1,7 @@
+page_id,property_name,property_type,value
+page-pharm-ii-study,Status,select,In Progress
+page-pharm-ii-study,Priority,select,High
+page-pharm-ii-study,Exam Date,date,2026-11-19
+page-pharm-ii-study,Course,select,NUR-420
+page-study-group-notes,Status,select,Done
+page-study-group-notes,Course,select,NUR-420

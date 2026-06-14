@@ -1,0 +1,8 @@
+id,event_id,ticket_class_id,name,email,status,checked_in,created
+att-wirth-001,evt-wirth-opener,tc-wirth-001,Brandon Wright,brandon.wright@university.edu,attending,false,2026-10-25T14:00:00Z
+att-wirth-002,evt-wirth-opener,tc-wirth-001,Eric Kim,eric.kim@university.edu,attending,false,2026-10-26T09:00:00Z
+att-wirth-003,evt-wirth-opener,tc-wirth-002,Sofia Garcia,sofia.garcia@university.edu,attending,false,2026-10-27T11:00:00Z
+att-wirth-004,evt-wirth-opener,tc-wirth-002,Raj Patel,raj.patel@university.edu,attending,false,2026-10-28T16:00:00Z
+att-nclex-001,evt-nclex-bootcamp,tc-nclex-001,Brandon Wright,brandon.wright@university.edu,attending,false,2026-11-10T08:00:00Z
+att-nclex-002,evt-nclex-bootcamp,tc-nclex-001,Sofia Garcia,sofia.garcia@university.edu,attending,false,2026-11-10T08:30:00Z
+att-mental-001,evt-mental-health,tc-mental-001,Brandon Wright,brandon.wright@university.edu,attending,false,2026-11-12T10:00:00Z

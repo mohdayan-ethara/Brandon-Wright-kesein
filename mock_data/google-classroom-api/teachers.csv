@@ -1,0 +1,7 @@
+courseId,userId,fullName,emailAddress,photoUrl
+course_pharm_02,teacher_chen,Professor Maria Chen,mchen@university.edu,https://lh3.googleusercontent.com/a/teacher_chen
+course_pharm_02_spring,teacher_chen,Professor Maria Chen,mchen@university.edu,https://lh3.googleusercontent.com/a/teacher_chen
+course_patho_05,teacher_chen,Professor Maria Chen,mchen@university.edu,https://lh3.googleusercontent.com/a/teacher_chen
+course_medsurg_02,teacher_okonkwo,Professor James Okonkwo,jokonkwo@university.edu,https://lh3.googleusercontent.com/a/teacher_okonkwo
+course_community_03,teacher_hartwig,Professor Linda Hartwig,lhartwig@university.edu,https://lh3.googleusercontent.com/a/teacher_hartwig
+course_research_04,teacher_kim,Professor David Kim,d.kim@university.edu,https://lh3.googleusercontent.com/a/teacher_kim

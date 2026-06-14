@@ -1,0 +1,6 @@
+courseId,courseWorkId,id,userId,state,assignedGrade,draftGrade,late,creationTime,updateTime,alternateLink
+course_pharm_02,cw_pharm_midterm,sub-001,student_wright,CREATED,,,false,2026-11-01T14:00:00Z,2026-11-01T14:00:00Z,https://classroom.google.com/c/course_pharm_02/a/cw_pharm_midterm/submissions/sub-001
+course_pharm_02,cw_quiz_01,sub-002,student_wright,TURNED_IN,88.0,88.0,false,2026-10-15T09:00:00Z,2026-10-15T09:30:00Z,https://classroom.google.com/c/course_pharm_02/a/cw_quiz_01/submissions/sub-002
+course_pharm_02,cw_quiz_01,sub-003,student_garcia,TURNED_IN,92.0,92.0,false,2026-10-15T09:00:00Z,2026-10-15T09:25:00Z,https://classroom.google.com/c/course_pharm_02/a/cw_quiz_01/submissions/sub-003
+course_pharm_02,cw_hw_01,sub-004,student_wright,TURNED_IN,85.0,85.0,false,2026-10-20T23:00:00Z,2026-10-20T23:45:00Z,https://classroom.google.com/c/course_pharm_02/a/cw_hw_01/submissions/sub-004
+course_pharm_02,cw_lab_01,sub-005,student_wright,RETURNED,90.0,90.0,false,2026-10-25T14:00:00Z,2026-10-28T10:00:00Z,https://classroom.google.com/c/course_pharm_02/a/cw_lab_01/submissions/sub-005

@@ -1,0 +1,7 @@
+"id","page_id","parent_block_id","type","text","order","created_time","last_edited_time","has_children","checked"
+"blk-skills-001","page-pharm-ii-study","","heading_2","Key Topics","0","2026-10-01T10:00:00.000Z","2026-10-01T10:00:00.000Z","false",""
+"blk-skills-002","page-pharm-ii-study","","bulleted_list_item","Cardiac pharmacology — beta blockers, calcium channel blockers, ACE inhibitors","1","2026-10-01T10:00:00.000Z","2026-10-01T10:00:00.000Z","false",""
+"blk-skills-003","page-pharm-ii-study","","bulleted_list_item","Respiratory pharmacology — bronchodilators, corticosteroids","2","2026-10-01T10:00:00.000Z","2026-10-01T10:00:00.000Z","false",""
+"blk-skills-004","page-pharm-ii-study","","bulleted_list_item","Renal pharmacology — diuretics, electrolyte management","3","2026-10-01T10:00:00.000Z","2026-10-01T10:00:00.000Z","false",""
+"blk-skills-005","page-pharm-ii-study","","bulleted_list_item","GI pharmacology — antiemetics, proton pump inhibitors","4","2026-10-01T10:00:00.000Z","2026-10-01T10:00:00.000Z","false",""
+"blk-skills-006","page-pharm-ii-study","","bulleted_list_item","Endocrine pharmacology — insulin, thyroid medications","5","2026-10-01T10:00:00.000Z","2026-10-01T10:00:00.000Z","false",""

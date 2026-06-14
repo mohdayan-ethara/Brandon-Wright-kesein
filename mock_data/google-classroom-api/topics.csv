@@ -1,0 +1,13 @@
+courseId,topicId,name,updateTime
+course_pharm_02,topic_pharm_midterm,Midterm Exam,2026-09-01T09:00:00Z
+course_pharm_02,topic_pharm_quizzes,Weekly Quizzes,2026-09-01T09:00:00Z
+course_pharm_02_spring,topic_pharm_old,Archived Materials,2026-01-15T09:00:00Z
+course_medsurg_02,topic_ms_assessment,Health Assessment,2026-09-20T09:00:00Z
+course_medsurg_02,topic_ms_careplan,Care Planning,2026-09-25T09:00:00Z
+course_medsurg_02,topic_ms_midterm,Midterm Exam,2026-10-01T09:00:00Z
+course_community_03,topic_comm_assessment,Community Assessment,2026-09-20T09:00:00Z
+course_community_03,topic_comm_clinic,Clinical Reflections,2026-10-15T09:00:00Z
+course_research_04,topic_research_proposal,Research Proposal,2026-09-10T09:00:00Z
+course_research_04,topic_research_litreview,Literature Review,2026-10-01T09:00:00Z
+course_patho_05,topic_patho_quizzes,Weekly Quizzes,2026-09-25T09:00:00Z
+course_patho_05,topic_patho_casestudy,Case Studies,2026-10-01T09:00:00Z

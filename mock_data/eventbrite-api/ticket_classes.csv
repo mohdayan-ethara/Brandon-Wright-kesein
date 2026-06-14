@@ -1,0 +1,8 @@
+id,event_id,name,quantity_total,quantity_sold,cost,fee,free,sales_start,sales_end
+tc-wirth-001,evt-wirth-opener,General Admission,200,145,5000,500,false,2026-09-01T00:00:00Z,2026-11-13T23:59:00Z
+tc-wirth-002,evt-wirth-opener,Student Discount,50,32,2500,250,false,2026-09-01T00:00:00Z,2026-11-13T23:59:00Z
+tc-nclex-001,evt-nclex-bootcamp,Standard,100,78,0,0,true,2026-10-01T00:00:00Z,2026-11-19T23:59:00Z
+tc-nclex-002,evt-nclex-bootcamp,VIP - Includes Recordings,50,22,2999,300,false,2026-10-01T00:00:00Z,2026-11-19T23:59:00Z
+tc-mental-001,evt-mental-health,General Admission,80,45,0,0,true,2026-10-15T00:00:00Z,2026-11-25T23:59:00Z
+tc-research-001,evt-research-symp,Early Bird,150,89,2500,250,false,2026-09-01T00:00:00Z,2026-12-01T23:59:00Z
+tc-research-002,evt-research-symp,Standard,200,67,0,0,true,2026-10-01T00:00:00Z,2026-12-01T23:59:00Z

@@ -1,0 +1,7 @@
+id,name,address1,city,region,postal_code,country,latitude,longitude
+venue-convention,Minneapolis Convention Center,1301 2nd Ave S,Minneapolis,MN,55403,US,44.9694,-93.2729
+venue-community,St. Paul Community College,235 Marshall Ave,St. Paul,MN,55102,US,44.9451,-93.0937
+venue-simcenter,Mercy Hospital Simulation Center,800 Mercy Dr,Minneapolis,MN,55405,US,44.9762,-93.2891
+venue-studentcenter,University Student Center,300 Washington Ave SE,Minneapolis,MN,55455,US,44.9726,-93.2433
+venue-giantsridge,Giant's Ridge Ski Area,6375 Giant's Ridge Rd,Biwabik,MN,55708,US,47.3720,-92.3120
+venue-redcross,Red Cross Minneapolis,1200 12th St S,Minneapolis,MN,55404,US,44.9627,-93.2568

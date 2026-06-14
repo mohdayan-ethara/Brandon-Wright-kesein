@@ -1,0 +1,67 @@
+"id","thread_id","from_addr","to_addr","cc_addr","subject","snippet","body","date","internal_date","size_estimate","labels","is_unread","is_starred"
+"MSG-001","THR-001","chen@university.edu","brandon.wright@university.edu","","Midterm Date Update","The Pharm II midterm has been rescheduled to Thursday November 19 at 2:00 PM.","The Pharm II midterm has been rescheduled to Thursday November 19 at 2:00 PM. Please update your calendars accordingly.
+
+- Professor Chen","2026-11-01T10:15:00Z","1730470500000","1800","INBOX,school","false","true"
+"MSG-002","THR-002","lars@skiclub.org","brandon.wright@university.edu","","Wirth Park opener - registration open","The early-season classic at Wirth Park is set for November 14. Entry fee is $115.00.","The early-season classic at Wirth Park is set for November 14. Entry fee is $115.00. Registration closes November 10.
+
+Coach Lars","2026-10-20T08:30:00Z","1729427400000","2100","INBOX,ski","false","true"
+"MSG-003","THR-003","jessica.m@university.edu","brandon.wright@university.edu","","Pharm II study guide?","Hey Brandon - any chance you can send me your Pharm II study guide?","Hey Brandon - any chance you can send me your Pharm II study guide? I know it's supposed to be for the study group but I've been swamped with clinicals and really need to catch up.
+
+Thanks,
+Jessica","2026-10-22T19:45:00Z","1729633500000","2400","INBOX,school","false","true"
+"MSG-004","THR-004","registrar@university.edu","brandon.wright@university.edu","","Final Exam Schedule - Spring 2026","Pathophysiology II final exam scheduled for May 12.","Pathophysiology II (NUR-310) final exam scheduled for Monday May 12 at 9:00 AM in room 204. This is the Spring 2026 semester schedule.
+
+Registrar's Office","2026-04-15T11:00:00Z","1744110000000","1900","INBOX,school,archive","true","false"
+"MSG-005","THR-005","admin@nursingce.org","brandon.wright@university.edu","","Upcoming Nursing CE Webinar","Pathophysiology II: Advanced Cardiac Assessment webinar on November 19.","Join us for Pathophysiology II: Advanced Cardiac Assessment - a continuing education webinar on Thursday November 19 at 2:00 PM EST.
+
+NursingCE.org","2026-10-25T08:00:00Z","1745424000000","1600","INBOX,school","false","false"
+"MSG-006","THR-006","mom@familyemail.com","brandon.wright@university.edu","","Thanksgiving plans?","Are you coming home for Thanksgiving?","Are you coming home for Thanksgiving? Your dad wants to know if you'll make it to the turkey trot.
+
+Love,
+Mom","2026-11-05T07:00:00Z","1762383600000","1400","INBOX,family","false","false"
+"MSG-007","THR-007","bank@chase.com","brandon.wright@university.edu","","Account Alert","Your monthly statement is ready.","Your checking account statement for October is now available. Balance: $1,247.32.
+
+View statement: https://chase.com/statements","2026-11-02T06:00:00Z","1730786400000","1200","INBOX,finance","false","false"
+"MSG-008","THR-001","chen@university.edu","brandon.wright@university.edu","","RE: Midterm Date Update","Please confirm receipt of the date change.","Please confirm receipt of the date change to November 19. Let me know if you have any concerns.
+
+- Professor Chen","2026-11-01T11:00:00Z","1730473200000","900","INBOX,school","false","true"
+"MSG-009","THR-009","advisor-smith@university.edu","brandon.wright@university.edu","","Spring Registration Reminder","Spring semester registration opens next week.","Spring 2027 registration opens Monday November 20. Schedule your advising appointment soon to avoid holds.
+
+Academic Advising","2026-11-03T09:00:00Z","1730872800000","1100","INBOX,school","false","false"
+"MSG-010","THR-010","hr@cnaagency.com","brandon.wright@university.edu","","CNA Shift - November 14","You are scheduled for a CNA shift on November 14.","This is to confirm your CNA shift on Saturday November 14 from 7:00 AM to 3:00 PM at St. Mary's Medical Center - Floor 3 East.
+
+Please arrive 15 minutes early for report.","2026-11-01T08:00:00Z","1730448000000","1300","INBOX,work","false","true"
+"MSG-011","THR-011","landlord@aptmgmt.com","brandon.wright@university.edu","","Lease Renewal","Your lease ends December 31. Would you like to renew?","Your current lease for 742 University Ave #3B expires December 31. Rent renewal rate: $975/month (current $950).
+
+Let us know by December 1.","2026-10-28T14:00:00Z","1729720800000","800","INBOX,housing","false","false"
+"MSG-012","THR-012","sofia.garcia@university.edu","brandon.wright@university.edu","","Study group tonight?","Hey are we still on for study group Thursday 6-8?","Hey Brandon - are we still on for study group this Thursday 6-8 PM? I have some practice questions on cardiac pharmacology to go over.
+
+-Sofia","2026-11-02T15:30:00Z","1730561400000","700","INBOX,school","false","true"
+"MSG-013","THR-013","raj.patel@university.edu","brandon.wright@university.edu","","Pharm II notes","I found a great resource for beta blockers.","Check out this video on beta blocker classifications - it really helped me understand the cardioselective vs non-selective distinction.
+
+https://youtube.com/watch?v=beta-blockers
+
+-Raj","2026-10-30T20:00:00Z","1729785600000","600","INBOX,school","false","false"
+"MSG-014","THR-014","fitness@campusrec.com","brandon.wright@university.edu","","Gym Holiday Hours","Campus rec center holiday schedule.","The campus recreation center will have modified hours during Thanksgiving week: Nov 14-17 open 6AM-8PM, Nov 18-19 closed for holiday.
+
+Go Panthers!","2026-11-01T12:00:00Z","1730462400000","500","INBOX","false","false"
+"MSG-015","THR-015","coach.lars@skiclub.org","brandon.wright@university.edu","","Ski team practice Wed","Practice moved to Wednesday this week.","Heads up - practice is moved to Wednesday November 15 at 6 AM due to the early-season meet prep. Don't be late!
+
+Coach Lars","2026-11-03T06:30:00Z","1730867400000","650","INBOX,ski","false","true"
+"MSG-016","THR-016","eric.kim@university.edu","brandon.wright@university.edu","","Clinical placement forms","Have you submitted your clinical placement forms?","Just a reminder that clinical placement forms for next semester are due December 1. Make sure Professor Chen signs off on your evaluation.
+
+-Eric","2026-11-01T14:00:00Z","1730476800000","550","INBOX,school","false","false"
+"MSG-017","THR-017","noreply@parkboard.gov","brandon.wright@university.edu","","Wirth Park Trail Conditions","Wirth Park trail report - November 10","Trail conditions at Wirth Park: Base depth 6 inches, grooming daily. Early-season classic on schedule for November 14. All trails open.
+
+Minneapolis Park Board","2026-11-10T08:00:00Z","1731216000000","750","INBOX,ski","false","false"
+"MSG-018","THR-018","tara.johnson@university.edu","brandon.wright@university.edu","","Study guide?","Do you have a Pharm II study guide?","Hey Brandon - heard you put together an amazing study guide for Pharm II. Any chance I could grab a copy? I'm in your study group but missed last week.
+
+-Tara","2026-11-03T18:00:00Z","1730896800000","500","INBOX,school","false","false"
+"MSG-019","THR-019","clinicalcoord@university.edu","brandon.wright@university.edu","","Sim Lab Schedule","Sim lab debrief confirmed Thursday 4-5PM.","Simulation lab debrief confirmed for Thursday November 19 from 4:00 PM to 5:00 PM in Sim Center Room 210.
+
+Attendance is mandatory.","2026-10-15T10:00:00Z","1729423200000","600","INBOX,school","false","true"
+"MSG-020","THR-020","scholarships@university.edu","brandon.wright@university.edu","","Nursing Scholarship Deadline","The Porter Nursing Scholarship deadline is December 1.","The Porter Memorial Nursing Scholarship application deadline is December 1, 2026. Award: $5,000.
+
+Eligibility: 3.0+ GPA, enrolled in nursing program, demonstrated financial need.
+
+Apply at: https://university.edu/scholarships","2026-11-04T09:00:00Z","1730960400000","1000","INBOX,finance","false","false"
