@@ -154,7 +154,7 @@ Zero port literals, zero localhost references, zero credentials or real PII acro
 | A2 | Midterm time and room | ANSWERABLE_JOIN | google-classroom coursework.csv (14:00 dueTime), file_06.txt (Room 204) | Time from API, room from data/ |
 | A3 | Study guide currency | ANSWERABLE_JOIN | file_01.docx (study guide), google-classroom coursework.csv (current vs archived), materials.csv | Study guide content in data/; verification of current semester requires API coursework |
 | A4 | Clinical obligations | ANSWERABLE_INPUT | file_04.pdf, file_11.txt | Clinical schedule and sim lab fully in data/ |
-| A5 | Race details | ANSWERABLE_JOIN | file_08.txt, img_02.jpg, data_02.xlsx, gmail MSG-002 | Fee $115 in both; venue name from img_02.jpg (VISUAL, multimodal); API MSG-002 confirms |
+| A5 | Race details | ANSWERABLE_JOIN | file_08.txt, img_02.jpg, data_02.xlsx, gmail MSG-002 | Fee $115 in both; venue name from img_02.png (VISUAL, multimodal); API MSG-002 confirms |
 | A6 | CNA shift on race day | ANSWERABLE_INPUT | file_15.txt | CNA shift specific to data/ |
 | A7 | Study events | ANSWERABLE_INPUT | file_10.txt, file_12.txt | Study group and review session only in data/ |
 | A8 | Schedule collisions | ANSWERABLE_JOIN | All event sources above | Requires collating events from both data/ and API |
@@ -207,9 +207,9 @@ Input breakdown: A1, A2, A3, A4, A5, A6, A7, A8, A10 = 9 require input
 
 | Image | Content | Irreplaceable? |
 |---|---|---|
-| img_02.jpg | Race photo (Wirth Park venue) | Partial — venue name also in file_08.txt and MSG-002, but rubric requires visual |
-| img_03.jpg | Unknown — appears to be a photo | No — distractor |
-| img_04.jpg | Unknown — appears to be a photo | No — distractor |
+| img_02.png | Race photo (Wirth Park venue) | Partial — venue name also in file_08.txt and MSG-002, but rubric requires visual |
+| img_03.png | Unknown — appears to be a photo | No — distractor |
+| img_04.png | Unknown — appears to be a photo | No — distractor |
 
 **Verdict**: MINOR_ISSUES — the task's multimodal dependency relies on rubric structure rather than genuine necessity. img_02.jpg provides venue information also available in text sources.
 
